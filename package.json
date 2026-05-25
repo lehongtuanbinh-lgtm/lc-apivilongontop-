@@ -1,0 +1,19 @@
+{
+  "name": "ai-tai-xiu-md5-pro",
+  "version": "3.0.0",
+  "description": "AI Tài Xỉu MD5 Pro - Phiên bản Pattern Master",
+  "main": "lc79.js",
+  "type": "module",
+  "scripts": {
+    "start": "node lc79.js",
+    "dev": "node --watch lc79.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "fastify": "^4.26.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
